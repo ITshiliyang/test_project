@@ -1,0 +1,100 @@
+{
+  "name": "00车辆品牌",
+  "category": [
+    {
+      "name": "01高档车",
+      "products": [
+        {
+          "name": "0101劳斯莱斯系列",
+          "cars": [
+            {
+              "code": "010101",
+              "name": "劳斯莱斯1",
+              "licence": "京A32942",
+              "byTime": "2019-01-01",
+              "price": "800000",
+              "state": true
+            }
+          ]
+        },
+        {
+          "name": "0102保时捷系列",
+          "cars": [
+            {
+              "code": "010101",
+              "name": "保时捷1",
+              "licence": "京A32942",
+              "byTime": "2019-01-01",
+              "price": "400000",
+              "state": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "02中档车",
+      "products": [
+        {
+          "name": "0201宝马系列",
+          "cars": [
+            {
+              "code": "010101",
+              "name": "宝马5系",
+              "licence": "京A32942",
+              "byTime": "2019-01-01",
+              "price": "300000",
+              "state": true
+            }
+          ]
+        },
+        {
+          "name": "0202奥迪系列",
+          "cars": [
+            {
+              "code": "010101",
+              "name": "奥迪1",
+              "licence": "京A32942",
+              "byTime": "2019-01-01",
+              "price": "300000",
+              "state": true
+            }
+          ]
+        },
+        {
+          "name": "0203奔驰系列",
+          "cars": [
+            {
+              "code": "010101",
+              "name": "奔驰1",
+              "licence": "京A39242",
+              "byTime": "2019-01-01",
+              "price": "300000",
+              "state": true
+            },
+            {
+              "code": "012311",
+              "name": "奔驰2",
+              "licence": "京A32242",
+              "byTime": "2019-01-01",
+              "price": "200000",
+              "state": true
+            },
+            {
+              "code": "010101",
+              "name": "奔驰3",
+              "licence": "京A04242",
+              "byTime": "2019-01-01",
+              "price": "100000",
+              "state": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "03低档车",
+      "products": []
+    }
+  ]
+}
